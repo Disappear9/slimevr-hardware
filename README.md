@@ -9,10 +9,14 @@
 ## 更新日志
 1.使用XC6210替换AMS1117  
 2.对信号线重新layout  
+3.拼板设计，打样后用钢锯/台锯沿孔洞切割
 
 ## 其他
 1.使用EDA软件为EASYEDA（立创EDA）  
 2.文件 -> 打开 选择json文件即可导入  
+
+### 固件  
+https://github.com/Disappear9/SlimeVR-Tracker-ESP  
 
 # 项目进度  
 - [x] 初始版本设计
