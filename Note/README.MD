@@ -5,3 +5,6 @@ https://docs.espressif.com/projects/esp-idf/zh_CN/latest/esp32/hw-reference/esp3
 PDF:  
 https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32e_esp32-wroom-32ue_datasheet_cn.pdf  
 https://www.nxp.com/docs/en/application-note/AN4247.pdf  
+
+PICS:
+![](/Note/ESP32-wroom-32-pinout-mischianti-high-resolution.png)  
