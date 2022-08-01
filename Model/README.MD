@@ -6,3 +6,5 @@ CASE文件夹中为外壳设计文件。
 ## 效果图
 ![Main1](/PICS/Main-ASM-1.jpg)
 ![Main2](/PICS/Main-ASM-2.jpg)
+![AUX1](/PICS/AUX-ASM-1.jpg)
+![AUX2](/PICS/AUX-ASM-2.jpg)
