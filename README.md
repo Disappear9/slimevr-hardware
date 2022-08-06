@@ -25,7 +25,7 @@ https://github.com/Disappear9/SlimeVR-Tracker-ESP
 - [x] 验证AUX板运行状态
 - [x] Core板外壳设计
 - [x] AUX板外壳设计
-- [ ] 外壳打印验证
+- [x] 外壳打印验证
 - [ ] 绑带设计
 - [ ] 总装测试
 
