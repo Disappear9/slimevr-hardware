@@ -9,7 +9,8 @@
 ## 更新日志
 1.使用XC6210替换AMS1117  
 2.对信号线重新layout  
-3.拼板设计，打样后用钢锯/台锯沿孔洞切割
+3.拼板设计，打样后用钢锯/台锯沿孔洞切割  
+4.腰部连线臃肿，需要设计PDU  
 
 ## 其他
 1.使用EDA软件为EASYEDA（立创EDA）  
@@ -26,8 +27,9 @@ https://github.com/Disappear9/SlimeVR-Tracker-ESP
 - [x] Core板外壳设计
 - [x] AUX板外壳设计
 - [x] 外壳打印验证
-- [ ] 绑带设计
+- [x] 绑带设计
 - [ ] 总装测试
+- [ ] PDU设计（优化）
 
 # LICENSE
 CC BY-NC-SA 3.0
