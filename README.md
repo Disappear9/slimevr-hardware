@@ -31,8 +31,8 @@ https://github.com/Disappear9/SlimeVR-Tracker-ESP
 
 # TODO  
 1.腰部连线臃肿，需要设计PDU  
-2.外壳不舒适，减小板子体积并优化外壳  
-3.手柄干扰磁力计，下代更换IMU为42688  
+2.外壳不舒适，优化外壳  
+3.手柄干扰磁力计，下代更换IMU  
 
 # LICENSE
 CC BY-NC-SA 3.0
