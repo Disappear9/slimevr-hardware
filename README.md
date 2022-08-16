@@ -6,6 +6,9 @@
 4.预留第二IMU端口，接口使用RJ11。  
 5. 使用 ESP32-WROOM-32E 作为MCU
 
+## 
+![ASMOK](/PICS/asmok.jpg)
+
 ## 更新日志
 1.使用XC6210替换AMS1117  
 2.对信号线重新layout  
@@ -17,6 +20,9 @@
 
 ### 固件  
 https://github.com/Disappear9/SlimeVR-Tracker-ESP  
+### 模型&组装说明  
+[模型](/Model/README.MD)  
+[组装说明](/Model/ASM.MD)  
 
 # 项目进度  
 - [x] 初始版本设计
@@ -31,8 +37,7 @@ https://github.com/Disappear9/SlimeVR-Tracker-ESP
 
 # TODO  
 1.腰部连线臃肿，需要设计PDU  
-2.外壳不舒适，优化外壳  
-3.手柄干扰磁力计，下代更换IMU  
+2.手柄干扰磁力计，下代更换IMU  
 
 # LICENSE
 CC BY-NC-SA 3.0
